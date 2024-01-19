@@ -1,0 +1,75 @@
+<div class="col-12">
+    <div class="row justify-content-end">
+        <div class="col-5 requests px-4">
+            <div class="row empty-row"><h2>PREGUNTAS FRECUENTES</h2></div>
+            <div class="row">
+                <ul class="px-0 requests__list">
+                    {% if questions %}
+                        {% for question in questions %}
+                    <li class="mt-2 mx-0 requests__list-item">                        
+                        <div class="px-4 py-2">
+                            {{question}}
+                        </div>
+                    </li>  
+                        {% endfor %}
+                    {% endif %}
+                </ul> 
+            </div>
+        </div>
+        <div class="col-7 chat px-0">
+            <div class="row pb-2">
+                <div class="chat__clear col-12">
+                    <input type="checkbox"  name="" id="clear_all">
+                    <button class="ms-5 btn btn-light chat__btn-clear" title="borrar"> <i class="fa fa-trash"></i> </button>
+                </div>
+            </div>    
+            <div class="row pb-4 mx-0 chat__result mb-3">
+                    <ul class="px-0 chat__list-message">
+                        {% if conversations %}
+                            {% for conversation in conversations %}
+                        <li class="py-4 mt-2 mx-0 chat__list-item" id={{conversation.id}}>
+                            <div class="chat__conversation">
+                                <div class="chat__checkbox">
+                                    <input class="chat__checkbox-input" type="checkbox">
+                                </div>
+                                <div class="chat__result-request">
+                                    <div class=" ps-3 chat__image py-3"><img width="40px" height="40px" src="../static/img/user.jpg"/></div>
+                                    <div class=" pe-4 chat__content py-3"><pre class="message">{{conversation.request}}</pre></div>
+                                </div>
+                            </div>
+                            <div class="chat__conversation">
+                                <div class="chat__checkbox-hidden">
+                                    
+                                </div>
+                                <div class="chat__result-response">
+                                    <div class="ps-3 chat__image py-3"><img width="40px" height="40px" src="../static/img/system.jpg"/></div>
+                                    <div class="pe-4 chat__content py-3"><pre class="message">{{conversation.response}}</pre></div>
+                                </div>
+                            </div>
+                        </li>
+                                
+                            {% endfor %}
+                        {% endif %}
+                        <!--CONVERSACIONES AQUI-->
+                    </ul>
+                    <div class="spinner-container mt-4">
+                        <div class="" hidden id="spinner1">
+                            <div class="spinner-border" role="status"></div>
+                        </div>
+                    </div>
+                <!-- </div> -->
+            </div>
+            <div class="row chat__query">
+                <div class="col-10 ps-0 pe-5">
+                    <div class="chat__btn-send"><i class="fa fa-comment"></i></div>
+                    <label hidden for="queryTextArea" class="form-label">Realiza una consulta</label>
+                    <input hidden placeholder="Realiza una consulta..." premium = {{ premium }}  id="conversation"></input>
+                    <textarea placeholder="Realiza una consulta..." class="form-control chat__textarea" id="queryTextArea" rows="1"></textarea>
+                </div>
+            </div>
+            <div class="row chat__alert">
+            </div>
+        </div>
+    </div>
+</div>
+

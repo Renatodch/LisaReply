@@ -1,0 +1,71 @@
+{% load static %}
+
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Lisa Reply Service</title>
+
+    <!-- CSS LIBRARIES -->
+    <link rel="stylesheet" href="{% static 'css/styles.css' %}">
+    <link rel="stylesheet" href="{% static 'css/font-awesome.css' %}">
+    <!-- CSS -->
+    <link rel="stylesheet" type="text/css" href="{% static 'css/base.css' %}">
+    <link rel="stylesheet" type="text/css" href="{% static 'css/main.css' %}">
+</head>
+<body>
+    <main>
+        <div class="container-fluid">
+          <nav class="navbar navbar-expand-lg navbar-light bg-light">
+            <div class="container-fluid">
+              <a class="navbar-brand" href="#"><img src="../static/img/system.jpg" width="50px" height="50px"></a>
+              <button class="navbar-toggler" type="button" data-bs-toggle="collapse" data-bs-target="#navbarSupportedContent" aria-controls="navbarSupportedContent" aria-expanded="false" aria-label="Toggle navigation">
+                <span class="navbar-toggler-icon"></span>
+              </button>
+              <div class="collapse navbar-collapse" id="navbarSupportedContent">
+                <ul class="navbar-nav me-auto mb-2 mb-lg-0">
+                  <li class="nav-item">
+                    <a {% if section == "home" %} class="nav-link active" {% else %} class="nav-link" {% endif %}
+                    aria-current="page" href={% url 'home' %}>Chat Bot</a>
+                  </li>
+                  <li class="nav-item">
+                    <a {% if section == "tutorial" %} class="nav-link active" {% else %} class="nav-link" {% endif %} 
+                     href={% url 'tutorial' %}>Tutorial</a>
+                  </li>
+                </ul>
+                <form class="d-flex" action="" method="POST">
+                  {% if request.user.is_authenticated %}
+                  <button name="close_session" class="btn btn-primary" type="submit">Cerrar Sesión</button>
+                  {% else %}
+                  <button name="start_session" class="btn btn-primary me-3" type="submit">Acceso Premium</button>
+                  {% endif %}
+                </form>
+              </div>
+            </div>
+          </nav>
+          <div class="row section pt-4 pb-3 pe-5" >
+            {% if section == "home" %}
+              {% if request.user.is_authenticated %}
+                {% include "chat.html" with premium=True %}
+              {% else %}
+                {% include "chat.html" with premium=False %}
+              {% endif %}
+            {% elif section == "tutorial" %}
+              {% include "tutorial.html" with section="tutorial" %}
+            {% endif %}
+
+          </div>
+        </div>
+          
+    </main>
+    <!-- JS LIBRARIES -->
+    <script src="{% static 'js/popper.min.js' %}"></script>
+    <script src="{% static 'js/jquery.min.js' %}"></script>
+    <script src="{% static 'js/bootstrap.min.js' %}"></script>
+
+    <!-- JS -->
+    <script src="{% static 'js/main.js' %}"></script>
+</body>
+</html>

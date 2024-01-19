@@ -1,0 +1,649 @@
+Nombre: José Daniel Williams Zapata
+Votación obtenida: 44789
+Año legislativo: 2022
+Inicio de funciones: 26-Jul-2021
+Término de funciones: 27-Jul-2026
+Partido político: Avanza País - Partido de Integración Social
+Bancada: AVANZA PAÍS - PARTIDO DE INTEGRACIÓN SOCIAL
+Región: Lima
+URL de proyectos: https://www.congreso.gob.pe/congresistas2021/JoseWilliams/
+Condición: en Ejercicio
+--------------------------------------------------
+Nombre: Martha Lupe Moyano Delgado
+Votación obtenida: 23260
+Año legislativo: 2022
+Inicio de funciones: 26-Jul-2021
+Término de funciones: 27-Jul-2026
+Partido político: Fuerza Popular
+Bancada: FUERZA POPULAR
+Región: Lima
+URL de proyectos: https://www.congreso.gob.pe/congresistas2021/MarthaMoyano/
+Condición: en Ejercicio
+--------------------------------------------------
+Nombre: Silvia María Monteza Facho
+Votación obtenida: 7171
+Año legislativo: 2022
+Inicio de funciones: 26-Jul-2021
+Término de funciones: 27-Jul-2026
+Partido político: Acción Popular
+Bancada: ACCION POPULAR
+Región: Cajamarca
+URL de proyectos: https://www.congreso.gob.pe/congresistas2021/SilviaMonteza/
+Condición: en Ejercicio
+--------------------------------------------------
+Nombre: Alejandro Muñante Barrios
+Votación obtenida: 21014
+Año legislativo: 2022
+Inicio de funciones: 26-Jul-2021
+Término de funciones: 27-Jul-2026
+Partido político: Renovación Popular
+Bancada: RENOVACIÓN POPULAR
+Región: Lima
+URL de proyectos: https://www.congreso.gob.pe/congresistas2021/AlejandroMunante/
+Condición: en Ejercicio
+--------------------------------------------------
+Nombre: Norma Martina Yarrow Lumbreras
+Votación obtenida: 51103
+Año legislativo: 2022
+Inicio de funciones: 26-Jul-2021
+Término de funciones: 27-Jul-2026
+Partido político: Renovación Popular
+Bancada: AVANZA PAÍS - PARTIDO DE INTEGRACIÓN SOCIAL
+Región: Lima
+URL de proyectos: https://www.congreso.gob.pe/congresistas2021/NormaYarrow/
+Condición: en Ejercicio
+--------------------------------------------------
+Nombre: Bernardo Jaime Quito Sarmiento
+Votación obtenida: 41430
+Año legislativo: 2022
+Inicio de funciones: 26-Jul-2021
+Término de funciones: 27-Jul-2026
+Partido político: Partido Politico Nacional Perú Libre
+Bancada: PERÚ LIBRE
+Región: Arequipa
+URL de proyectos: https://www.congreso.gob.pe/congresistas2021/BernardoQuito/
+Condición: en Ejercicio
+--------------------------------------------------
+Nombre: José María Balcázar Zelada
+Votación obtenida: 6641
+Año legislativo: 2022
+Inicio de funciones: 26-Jul-2021
+Término de funciones: 27-Jul-2026
+Partido político: Partido Politico Nacional Perú Libre
+Bancada: PERÚ BICENTENARIO
+Región: Lambayeque
+URL de proyectos: https://www.congreso.gob.pe/congresistas2021/JoseBalcazar/
+Condición: en Ejercicio
+--------------------------------------------------
+Nombre: Carmen Patricia Juárez Gallegos
+Votación obtenida: 40125
+Año legislativo: 2022
+Inicio de funciones: 26-Jul-2021
+Término de funciones: 27-Jul-2026
+Partido político: Fuerza Popular
+Bancada: FUERZA POPULAR
+Región: Lima
+URL de proyectos: https://www.congreso.gob.pe/congresistas2021/CarmenJuarez/
+Condición: en Ejercicio
+--------------------------------------------------
+Nombre: María de los Milagros Jackeline Jáuregui Martínez de Aguayo
+Votación obtenida: 68003
+Año legislativo: 2022
+Inicio de funciones: 26-Jul-2021
+Término de funciones: 27-Jul-2026
+Partido político: Renovación Popular
+Bancada: RENOVACIÓN POPULAR
+Región: Lima
+URL de proyectos: https://www.congreso.gob.pe/congresistas2021/MariaJauregui/
+Condición: en Ejercicio
+--------------------------------------------------
+Nombre: Elvis Hernán Vergara Mendoza
+Votación obtenida: 4486
+Año legislativo: 2022
+Inicio de funciones: 26-Jul-2021
+Término de funciones: 27-Jul-2026
+Partido político: Acción Popular
+Bancada: ACCION POPULAR
+Región: Ucayali
+URL de proyectos: https://www.congreso.gob.pe/congresistas2021/ElvisVergara/
+Condición: en Ejercicio
+--------------------------------------------------
+Nombre: Alejandro Soto Reyes
+Votación obtenida: 29073
+Año legislativo: 2022
+Inicio de funciones: 26-Jul-2021
+Término de funciones: 27-Jul-2026
+Partido político: Alianza para el Progreso
+Bancada: ALIANZA PARA EL PROGRESO
+Región: Cusco
+URL de proyectos: https://www.congreso.gob.pe/congresistas2021/AlejandroSotoReyes/
+Condición: en Ejercicio
+--------------------------------------------------
+Nombre: Edgard Cornelio Reymundo Mercado
+Votación obtenida: 7912
+Año legislativo: 2022
+Inicio de funciones: 26-Jul-2021
+Término de funciones: 27-Jul-2026
+Partido político: Juntos por el Perú
+Bancada: CAMBIO DEMOCRÁTICO - JUNTOS POR EL PERÚ
+Región: Junín
+URL de proyectos: https://www.congreso.gob.pe/congresistas2021/EdgardReymundo/
+Condición: en Ejercicio
+--------------------------------------------------
+Nombre: Margot Palacios Huamán
+Votación obtenida: 11781
+Año legislativo: 2022
+Inicio de funciones: 26-Jul-2021
+Término de funciones: 27-Jul-2026
+Partido político: Partido Politico Nacional Perú Libre
+Bancada: PERÚ LIBRE
+Región: Ayacucho
+URL de proyectos: https://www.congreso.gob.pe/congresistas2021/MargotPalacios/
+Condición: en Ejercicio
+--------------------------------------------------
+Nombre: Hernando Guerra García Campos
+Votación obtenida: 55987
+Año legislativo: 2022
+Inicio de funciones: 26-Jul-2021
+Término de funciones: 27-Jul-2026
+Partido político: Fuerza Popular
+Bancada: FUERZA POPULAR
+Región: Lima
+URL de proyectos: https://www.congreso.gob.pe/congresistas2021/HernandoGuerraGarcia/
+Condición: en Ejercicio
+--------------------------------------------------
+Nombre: Elizabeth Sara Medina Hermosilla
+Votación obtenida: 11300
+Año legislativo: 2022
+Inicio de funciones: 26-Jul-2021
+Término de funciones: 27-Jul-2026
+Partido político: Partido Politico Nacional Perú Libre
+Bancada: BLOQUE MAGISTERIAL DE CONCERTACIÓN NACIONAL
+Región: Huánuco
+URL de proyectos: https://www.congreso.gob.pe/congresistas2021/ElizabethMedina/
+Condición: en Ejercicio
+--------------------------------------------------
+Nombre: Hilda Marleny Portero López
+Votación obtenida: 8568
+Año legislativo: 2022
+Inicio de funciones: 26-Jul-2021
+Término de funciones: 27-Jul-2026
+Partido político: Acción Popular
+Bancada: ACCION POPULAR
+Región: Lambayeque
+URL de proyectos: https://www.congreso.gob.pe/congresistas2021/HildaPortero/
+Condición: en Ejercicio
+--------------------------------------------------
+Nombre: Lady Mercedes Camones Soriano
+Votación obtenida: 6203
+Año legislativo: 2022
+Inicio de funciones: 26-Jul-2021
+Término de funciones: 27-Jul-2026
+Partido político: Alianza para el Progreso del Perú
+Bancada: ALIANZA PARA EL PROGRESO
+Región: Ancash
+URL de proyectos: https://www.congreso.gob.pe/congresistas2021/LadyCamones/
+Condición: en Ejercicio
+--------------------------------------------------
+Nombre: Noelia Rossvith Herrera Medina
+Votación obtenida: 8619
+Año legislativo: 2022
+Inicio de funciones: 26-Jul-2021
+Término de funciones: 27-Jul-2026
+Partido político: Renovación Popular
+Bancada: RENOVACIÓN POPULAR
+Región: Callao
+URL de proyectos: https://www.congreso.gob.pe/congresistas2021/NoeliaHerrera/
+Condición: en Ejercicio
+--------------------------------------------------
+Nombre: Alejandro Aurelio Aguinaga Recuenco
+Votación obtenida: 10715
+Año legislativo: 2022
+Inicio de funciones: 26-Jul-2021
+Término de funciones: 27-Jul-2026
+Partido político: Fuerza Popular
+Bancada: FUERZA POPULAR
+Región: Lambayeque
+URL de proyectos: https://www.congreso.gob.pe/congresistas2021/AlejandroAguinaga/
+Condición: en Ejercicio
+--------------------------------------------------
+Nombre: José León Luna Gálvez
+Votación obtenida: 91055
+Año legislativo: 2022
+Inicio de funciones: 26-Jul-2021
+Término de funciones: 27-Jul-2026
+Partido político: Podemos Perú
+Bancada: PODEMOS PERÚ
+Región: Lima
+URL de proyectos: https://www.congreso.gob.pe/congresistas2021/JoseLuna/
+Condición: en Ejercicio
+--------------------------------------------------
+Nombre: César Manuel Revilla Villanueva
+Votación obtenida: 6420
+Año legislativo: 2022
+Inicio de funciones: 26-Jul-2021
+Término de funciones: 27-Jul-2028
+Partido político: Fuerza Popular
+Bancada: FUERZA POPULAR
+Región: Piura
+URL de proyectos: https://www.congreso.gob.pe/congresistas2021/CesarRevilla/
+Condición: en Ejercicio
+--------------------------------------------------
+Nombre: María Grimaneza Acuña Peralta
+Votación obtenida: 11384
+Año legislativo: 2022
+Inicio de funciones: 26-Jul-2021
+Término de funciones: 27-Jul-2026
+Partido político: Alianza para el Progreso
+Bancada: ALIANZA PARA EL PROGRESO
+Región: Lambayeque
+URL de proyectos: https://www.congreso.gob.pe/congresistas2021/GrimanezaAcuna/
+Condición: en Ejercicio
+--------------------------------------------------
+Nombre: Flavio Cruz Mamani
+Votación obtenida: 30025
+Año legislativo: 2022
+Inicio de funciones: 26-Jul-2021
+Término de funciones: 27-Jul-2026
+Partido político: Partido Politico Nacional Perú Libre
+Bancada: PERÚ LIBRE
+Región: Puno
+URL de proyectos: https://www.congreso.gob.pe/congresistas2021/FlavioCruz/
+Condición: en Ejercicio
+--------------------------------------------------
+Nombre: José Alberto Arriola Tueros
+Votación obtenida: 34982
+Año legislativo: 2022
+Inicio de funciones: 26-Jul-2021
+Término de funciones: 27-Jul-2026
+Partido político: Acción Popular
+Bancada: ACCIÓN POPULAR
+Región: Lima
+URL de proyectos: https://www.congreso.gob.pe/congresistas2021/JoseArriola/
+Condición: en Ejercicio
+--------------------------------------------------
+Nombre: Víctor Seferino Flores Ruíz
+Votación obtenida: 12256
+Año legislativo: 2022
+Inicio de funciones: 26-Jul-2021
+Término de funciones: 27-Jul-2026
+Partido político: Fuerza Popular
+Bancada: FUERZA POPULAR
+Región: La Libertad
+URL de proyectos: https://www.congreso.gob.pe/congresistas2021/VictorFlores/
+Condición: en Ejercicio
+--------------------------------------------------
+Nombre: Hamlet Echeverría Rodríguez
+Votación obtenida: 3647
+Año legislativo: 2022
+Inicio de funciones: 26-Jul-2021
+Término de funciones: 27-Jul-2026
+Partido político: Partido Politico Nacional Perú Libre
+Bancada: CAMBIO DEMOCRÁTICO - JUNTOS POR EL PERÚ
+Región: Cajamarca
+URL de proyectos: https://www.congreso.gob.pe/congresistas2021/HamletEcheverria/
+Condición: en Ejercicio
+--------------------------------------------------
+Nombre: Ernesto Bustamante Donayre
+Votación obtenida: 24075
+Año legislativo: 2022
+Inicio de funciones: 26-Jul-2021
+Término de funciones: 27-Jul-2026
+Partido político: Fuerza Popular
+Bancada: FUERZA POPULAR
+Región: Lima
+URL de proyectos: https://www.congreso.gob.pe/congresistas2021/ErnestoBustamante/
+Condición: en Ejercicio
+--------------------------------------------------
+Nombre: María Jessica Córdova Lobatón
+Votación obtenida: 12552
+Año legislativo: 2022
+Inicio de funciones: 26-Jul-2021
+Término de funciones: 27-Jul-2026
+Partido político: Renovación Popular
+Bancada: AVANZA PAÍS - PARTIDO DE INTEGRACIÓN SOCIAL
+Región: Lambayeque
+URL de proyectos: https://www.congreso.gob.pe/congresistas2021/MariaCordova/
+Condición: en Ejercicio
+--------------------------------------------------
+Nombre: Segundo Teodomiro Quiroz Barboza
+Votación obtenida: 16660
+Año legislativo: 2022
+Inicio de funciones: 26-Jul-2021
+Término de funciones: 27-Jul-2026
+Partido político: Partido Politico Nacional Perú Libre
+Bancada: BLOQUE MAGISTERIAL DE CONCERTACIÓN NACIONAL
+Región: Cajamarca
+URL de proyectos: https://www.congreso.gob.pe/congresistas2021/SegundoQuiroz/
+Condición: en Ejercicio
+--------------------------------------------------
+Nombre: Waldemar José Cerrón Rojas
+Votación obtenida: 25281
+Año legislativo: 2022
+Inicio de funciones: 26-Jul-2021
+Término de funciones: 27-Jul-2027
+Partido político: Partido Politico Nacional Perú Libre
+Bancada: PERÚ LIBRE
+Región: Junín
+URL de proyectos: https://www.congreso.gob.pe/congresistas2021/WaldemarCerron/
+Condición: en Ejercicio
+--------------------------------------------------
+Nombre: Susel Ana María Paredes Piqué
+Votación obtenida: 76785
+Año legislativo: 2022
+Inicio de funciones: 26-Jul-2021
+Término de funciones: 27-Jul-2026
+Partido político: Partido Morado
+Bancada: CAMBIO DEMOCRÁTICO - JUNTOS POR EL PERÚ
+Región: Lima
+URL de proyectos: https://www.congreso.gob.pe/congresistas2021/SuselParedes/
+Condición: en Ejercicio
+--------------------------------------------------
+Nombre: José Enrique Jeri Oré
+Votación obtenida: 11654
+Año legislativo: 2022
+Inicio de funciones: 26-Jul-2021
+Término de funciones: 27-Jul-2026
+Partido político: Partido Democrático Somos Perú
+Bancada: SOMOS PERÚ
+Región: Lima
+URL de proyectos: https://www.congreso.gob.pe/congresistas2021/JoseJeri/
+Condición: en Ejercicio
+--------------------------------------------------
+Nombre: Arturo Alegría García
+Votación obtenida: 2443
+Año legislativo: 2022
+Inicio de funciones: 26-Jul-2021
+Término de funciones: 27-Jul-2026
+Partido político: Fuerza Popular
+Bancada: FUERZA POPULAR
+Región: San Martín
+URL de proyectos: https://www.congreso.gob.pe/congresistas2021/LuisAlegria/
+Condición: en Ejercicio
+--------------------------------------------------
+Nombre: Ruth Luque Ibarra
+Votación obtenida: 12049
+Año legislativo: 2022
+Inicio de funciones: 26-Jul-2021
+Término de funciones: 27-Jul-2026
+Partido político: Juntos por el Perú
+Bancada: CAMBIO DEMOCRÁTICO - JUNTOS POR EL PERÚ
+Región: Cusco
+URL de proyectos: https://www.congreso.gob.pe/congresistas2021/RuthLuque/
+Condición: en Ejercicio
+--------------------------------------------------
+Nombre: Tania Estefany Ramírez García
+Votación obtenida: 3240
+Año legislativo: 2022
+Inicio de funciones: 26-Jul-2021
+Término de funciones: 27-Jul-2026
+Partido político: Fuerza Popular
+Bancada: FUERZA POPULAR
+Región: Cajamarca
+URL de proyectos: https://www.congreso.gob.pe/congresistas2021/TaniaRamirez/
+Condición: en Ejercicio
+--------------------------------------------------
+Nombre: Héctor Valer Pinto
+Votación obtenida: 20948
+Año legislativo: 2022
+Inicio de funciones: 26-Jul-2021
+Término de funciones: 27-Jul-2026
+Partido político: Renovación Popular
+Bancada: SOMOS PERÚ
+Región: Lima
+URL de proyectos: https://www.congreso.gob.pe/congresistas2021/HectorValer/
+Condición: en Ejercicio
+--------------------------------------------------
+Nombre: Pedro Edwin Martínez Talavera
+Votación obtenida: 16372
+Año legislativo: 2022
+Inicio de funciones: 26-Jul-2021
+Término de funciones: 27-Jul-2026
+Partido político: Acción Popular
+Bancada: ACCIÓN POPULAR
+Región: Arequipa
+URL de proyectos: https://www.congreso.gob.pe/congresistas2021/PedroMartinez/
+Condición: en Ejercicio
+--------------------------------------------------
+Nombre: Rosio Torres Salinas
+Votación obtenida: 5179
+Año legislativo: 2022
+Inicio de funciones: 26-Jul-2021
+Término de funciones: 27-Jul-2026
+Partido político: Alianza para el Progreso
+Bancada: ALIANZA PARA EL PROGRESO
+Región: Loreto
+URL de proyectos: https://www.congreso.gob.pe/congresistas2021/RosioTorres/
+Condición: en Ejercicio
+--------------------------------------------------
+Nombre: Alejandro Enrique Cavero Alva
+Votación obtenida: 30242
+Año legislativo: 2022
+Inicio de funciones: 26-Jul-2021
+Término de funciones: 27-Jul-2026
+Partido político: Avanza País - Partido de Integración Social
+Bancada: AVANZA PAÍS - PARTIDO DE INTEGRACIÓN SOCIAL
+Región: Lima
+URL de proyectos: https://www.congreso.gob.pe/congresistas2021/AlejandroCavero/
+Condición: en Ejercicio
+--------------------------------------------------
+Nombre: Eduardo Salhuana Cavides
+Votación obtenida: 3013
+Año legislativo: 2022
+Inicio de funciones: 26-Jul-2021
+Término de funciones: 27-Jul-2026
+Partido político: Alianza para el Progreso
+Bancada: ALIANZA PARA EL PROGRESO
+Región: Madre de Dios
+URL de proyectos: https://www.congreso.gob.pe/congresistas2021/EduardoSalhuana/
+Condición: en Ejercicio
+--------------------------------------------------
+Nombre: Segundo Toribio Montalvo Cubas
+Votación obtenida: 5268
+Año legislativo: 2022
+Inicio de funciones: 26-Jul-2021
+Término de funciones: 27-Jul-2026
+Partido político: Partido Politico Nacional Perú Libre
+Bancada: PERÚ LIBRE
+Región: Amazonas
+URL de proyectos: https://www.congreso.gob.pe/congresistas2021/SegundoMontalvo/
+Condición: en Ejercicio
+--------------------------------------------------
+Nombre: Auristela Ana Obando Morgan
+Votación obtenida: 8914
+Año legislativo: 2022
+Inicio de funciones: 26-Jul-2021
+Término de funciones: 27-Jul-2026
+Partido político: Fuerza Popular
+Bancada: FUERZA POPULAR
+Región: Callao
+URL de proyectos: https://www.congreso.gob.pe/congresistas2021/AuristelaObando/
+Condición: en Ejercicio
+--------------------------------------------------
+Nombre: Segundo Héctor Acuña Peralta
+Votación obtenida: 19729
+Año legislativo: 2022
+Inicio de funciones: 26-Jul-2021
+Término de funciones: 27-Jul-2026
+Partido político: Alianza para el Progreso
+Bancada: NO AGRUPADO
+Región: La Libertad
+URL de proyectos: https://www.congreso.gob.pe/congresistas2021/SegundoAcuna/
+Condición: en Ejercicio
+--------------------------------------------------
+Nombre: Magaly Rosmery Ruíz Rodríguez
+Votación obtenida: 16689
+Año legislativo: 2022
+Inicio de funciones: 26-Jul-2021
+Término de funciones: 27-Jul-2026
+Partido político: Alianza para el Progreso
+Bancada: ALIANZA PARA EL PROGRESO
+Región: La Libertad
+URL de proyectos: https://www.congreso.gob.pe/congresistas2021/MagalyRuiz/
+Condición: en Ejercicio
+--------------------------------------------------
+Nombre: Jorge Carlos Montoya Manrique
+Votación obtenida: 138231
+Año legislativo: 2022
+Inicio de funciones: 26-Jul-2021
+Término de funciones: 27-Jul-2026
+Partido político: Renovación Popular
+Bancada: RENOVACIÓN POPULAR
+Región: Lima
+URL de proyectos: https://www.congreso.gob.pe/congresistas2021/JorgeMontoya/
+Condición: en Ejercicio
+--------------------------------------------------
+Nombre: Alfredo Pariona Sinche
+Votación obtenida: 9849
+Año legislativo: 2022
+Inicio de funciones: 27-Jul-2021
+Término de funciones: 26-Jul-2026
+Partido político: Partido Politico Nacional Perú Libre
+Bancada: PERÚ LIBRE
+Región: Huancavelica
+URL de proyectos: https://www.congreso.gob.pe/congresistas2021/AlfredoPariona/
+Condición: en Ejercicio
+--------------------------------------------------
+Nombre: Jorge Alberto Morante Figari
+Votación obtenida: 5548
+Año legislativo: 2022
+Inicio de funciones: 26-Jul-2021
+Término de funciones: 27-Jul-2026
+Partido político: Fuerza Popular
+Bancada: FUERZA POPULAR
+Región: Loreto
+URL de proyectos: https://www.congreso.gob.pe/congresistas2021/JorgeMorante/
+Condición: en Ejercicio
+--------------------------------------------------
+Nombre: Diego Alonso Fernando Bazán Calderón
+Votación obtenida: 22200
+Año legislativo: 2022
+Inicio de funciones: 26-Jul-2021
+Término de funciones: 27-Jul-2026
+Partido político: Renovación Popular
+Bancada: AVANZA PAÍS - PARTIDO DE INTEGRACIÓN SOCIAL
+Región: La Libertad
+URL de proyectos: https://www.congreso.gob.pe/congresistas2021/DiegoBazan/
+Condición: en Ejercicio
+--------------------------------------------------
+Nombre: Luis Ángel Aragón Carreño
+Votación obtenida: 12291
+Año legislativo: 2022
+Inicio de funciones: 26-Jul-2021
+Término de funciones: 27-Jul-2026
+Partido político: Acción Popular
+Bancada: ACCIÓN POPULAR
+Región: Cusco
+URL de proyectos: https://www.congreso.gob.pe/congresistas2021/LuisAragon/
+Condición: en Ejercicio
+--------------------------------------------------
+Nombre: Janet Milagros Rivas Chacara
+Votación obtenida: 4455
+Año legislativo: 2022
+Inicio de funciones: 26-Jul-2021
+Término de funciones: 27-Jul-2026
+Partido político: Partido Politico Nacional Perú Libre
+Bancada: PERÚ LIBRE
+Región: Lima Provincias
+URL de proyectos: https://www.congreso.gob.pe/congresistas2021/JanetRivas/
+Condición: en Ejercicio
+--------------------------------------------------
+Nombre: Alex Antonio Paredes Gonzales
+Votación obtenida: 18673
+Año legislativo: 2022
+Inicio de funciones: 26-Jul-2021
+Término de funciones: 27-Jul-2026
+Partido político: Partido Politico Nacional Perú Libre
+Bancada: BLOQUE MAGISTERIAL DE CONCERTACIÓN NACIONAL
+Región: Arequipa
+URL de proyectos: https://www.congreso.gob.pe/congresistas2021/AlexParedes/
+Condición: en Ejercicio
+--------------------------------------------------
+Nombre: Víctor Raúl Cutipa Ccama
+Votación obtenida: 3821
+Año legislativo: 2022
+Inicio de funciones: 26-Jul-2021
+Término de funciones: 27-Jul-2026
+Partido político: Partido Politico Nacional Perú Libre
+Bancada: PERÚ BICENTENARIO
+Región: Moquegua
+URL de proyectos: https://www.congreso.gob.pe/congresistas2021/VictorCutipa/
+Condición: en Ejercicio
+--------------------------------------------------
+Nombre: Rosangella Andrea Barbarán Reyes
+Votación obtenida: 22572
+Año legislativo: 2022
+Inicio de funciones: 26-Jul-2021
+Término de funciones: 27-Jul-2026
+Partido político: Fuerza Popular
+Bancada: FUERZA POPULAR
+Región: Lima
+URL de proyectos: https://www.congreso.gob.pe/congresistas2021/RosangellaBarbaran/
+Condición: en Ejercicio
+--------------------------------------------------
+Nombre: Héctor José Ventura Angel
+Votación obtenida: 3361
+Año legislativo: 2022
+Inicio de funciones: 26-Jul-2021
+Término de funciones: 27-Jul-2026
+Partido político: Fuerza Popular
+Bancada: FUERZA POPULAR
+Región: Tumbes
+URL de proyectos: https://www.congreso.gob.pe/congresistas2021/HectorVentura/
+Condición: en Ejercicio
+--------------------------------------------------
+Nombre: Nieves Esmeralda Limachi Quispe
+Votación obtenida: 3125
+Año legislativo: 2022
+Inicio de funciones: 11-Nov-2021
+Término de funciones: 27-Jul-2026
+Partido político: Partido Politico Nacional Perú Libre
+Bancada: CAMBIO DEMOCRÁTICO - JUNTOS POR EL PERÚ
+Región: Tacna
+URL de proyectos: https://www.congreso.gob.pe/congresistas2021/NievesLimachi/
+Condición: en Ejercicio
+--------------------------------------------------
+Nombre: Carlos Javier Zeballos Madariaga
+Votación obtenida: 23883
+Año legislativo: 2022
+Inicio de funciones: 26-Jul-2021
+Término de funciones: 27-Jul-2026
+Partido político: Acción Popular
+Bancada: PODEMOS PERÚ
+Región: Puno
+URL de proyectos: https://www.congreso.gob.pe/congresistas2021/CarlosZeballos/
+Condición: en Ejercicio
+--------------------------------------------------
+Nombre: Paul Silvio Gutiérrez Ticona
+Votación obtenida: 11124
+Año legislativo: 2022
+Inicio de funciones: 26-Jul-2021
+Término de funciones: 27-Jul-2026
+Partido político: Partido Politico Nacional Perú Libre
+Bancada: BLOQUE MAGISTERIAL DE CONCERTACIÓN NACIONAL
+Región: Apurímac
+URL de proyectos: https://www.congreso.gob.pe/congresistas2021/PaulGutierrez/
+Condición: en Ejercicio
+--------------------------------------------------
+Nombre: Yessica Rosselli Amuruz Dulanto
+Votación obtenida: 21855
+Año legislativo: 2022
+Inicio de funciones: 26-Jul-2021
+Término de funciones: 27-Jul-2026
+Partido político: Avanza País - Partido de Integración Social
+Bancada: AVANZA PAÍS - PARTIDO DE INTEGRACIÓN SOCIAL
+Región: Lima
+URL de proyectos: https://www.congreso.gob.pe/congresistas2021/YessicaAmuruz/
+Condición: en Ejercicio
+--------------------------------------------------
+Nombre: José Ernesto Cueto Aservi
+Votación obtenida: 36769
+Año legislativo: 2022
+Inicio de funciones: 26-Jul-2021
+Término de funciones: 27-Jul-2026
+Partido político: Renovación Popular
+Bancada: RENOVACIÓN POPULAR
+Región: Lima
+URL de proyectos: https://www.congreso.gob.pe/congresistas2021/JoseCueto/
+Condición: en Ejercicio
+--------------------------------------------------

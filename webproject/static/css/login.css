@@ -1,0 +1,25 @@
+*{
+    box-sizing: border-box;
+}
+body{
+    height: 100vh;
+}
+main{
+    background-color: #2B3A34;
+    height: 100%;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.login{
+/*     display: flex;
+    justify-content: center;
+    align-items: center; */
+    border-radius: 10px;
+    width: 400px;
+    height: auto;
+    background-color: #f8f9fa;
+}
+.login__title{
+}
